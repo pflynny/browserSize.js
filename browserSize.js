@@ -1,6 +1,6 @@
 
     var div = document.createElement("div");
-    div.setAttribute('id', 'window-resize'); // and make sure myclass has some styles in css
+    div.setAttribute('id', 'window-resize');
     var wreSize = document.getElementById('window-resize');
 
 
